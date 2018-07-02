@@ -1,0 +1,49 @@
+
+body{
+    background: rgb(97, 53, 53);
+}
+.jumbotron {
+	text-align: center;
+    background: rgb(25, 34, 25);
+    color: wheat;
+}
+#trainTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#trainTable td, #trainTable th {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color:wheat;
+    color:rgb(25, 34, 25) ;
+}
+.ctime{
+    background-color:wheat;
+    color:rgb(25, 34, 25) ;
+}
+
+
+#trainTable th {
+	height: 50px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(25, 34, 25);
+    color: wheat;
+}
+
+
+#min {
+	text-align: center;
+}
+
+.form1{
+    background-color:wheat;
+    color:rgb(25, 34, 25) ;
+}
+.add1{
+    background-color: rgb(25, 34, 25);
+    color: wheat;
+}
